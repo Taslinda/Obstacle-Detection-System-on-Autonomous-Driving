@@ -14,4 +14,4 @@ Running Program:
 1. Open anaconda prompt di path program
 2. Conda activate "name_environment"
 3. Run jupyter notebook
-4. Open dan run file python "Real_Time"
+4. Open dan run file python "REAL_TIME"

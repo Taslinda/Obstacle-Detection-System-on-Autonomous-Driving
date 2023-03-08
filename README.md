@@ -1,4 +1,4 @@
-# Obstacle Detection Syste on Autonomous Driving
+# Obstacle Detection System on Autonomous Driving
 Using the Single Shot Multibox Detector (SSD) Method and architecture MobileNet v2, detection of car, motorcycle, person, and pothole obstacle objects in real time on autonomous driving technology
 
 Installation:
